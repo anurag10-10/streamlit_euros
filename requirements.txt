@@ -1,2 +1,2 @@
 pandas
-mplsoccer
+mplsoccer #football visualisations library
