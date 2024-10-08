@@ -1,2 +1,2 @@
-pandas
+pandas # data manipulation library
 mplsoccer #football visualisations library
